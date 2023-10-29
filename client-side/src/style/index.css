@@ -1,0 +1,20 @@
+/* nav bar */
+a {
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 20px;
+  color: Navy;
+}
+
+a.active {
+  color: gold;
+  text-decoration: underline;
+}
+.logout {
+  color: navy !important;
+  text-decoration: none !important;
+}
+
+.logo {
+  width: 70px;
+}
